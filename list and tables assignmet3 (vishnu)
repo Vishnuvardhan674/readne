@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <title>
+            Demo list and tables
+        </title>
+    </head>
+    <body>
+            <h1>
+            <p style="text-align:center;">M. Vishnu Vardhan</p></h1>
+        <table align="left">
+                <tr>
+                    <td>House no:-5/2,</td> 
+                     
+                </tr>
+                <tr>
+                    <td>Chitvel(M&V),</td>  
+                    
+                </tr>
+                <tr>
+                    <td>Kadapa,Andhrapradesh,</td>
+                   
+                </tr>
+                <tr>
+                    <td>516104,India</td>
+                   
+                </tr>
+
+                <table align="right">
+                    <tr>
+                        <td>phone no:+91 123456789,</td> 
+                         
+                    </tr>
+                    <tr>
+                        <td>abcd@gmail.com</td>  
+                        
+                    </tr>
+                    <tr>
+                        <td>linkedin</td>
+                       
+                    </tr>
+                    
+                
+                 
+        </table><br><br><br><br><br>
+        <h3> Objective</h3>
+        <hr>
+        <p> Begin a Student i will learn technical skills along with my studies. Towords my carrer i learn programmimg skills and also technical skills.
+            As a electrical student i learn about electrical and also electrocins how they impkement in real time applications. I would like to get into a good platform which provides friendly working environment and carrer growth.
+        </p>
+<br>
+
+<h2> Education Qualification</h2>
+ 
+<table style="width:100%">
+    <t boarder="3px">
+        <style>
+            table, th, td {
+              border: 1px solid black;
+              border-collapse: collapse;
+            }
+            </style>
+        <tr>
+        <th> Degree Qualification </th>
+        <th> Institude Board/University </th>
+        <th>year</th>
+        <th> CGPA</th>
+        </tr>
+        <tr>
+            <td>B.Tech</td>
+            <td> Rajiv Gandhi university of Knowledge Technologies,Rk valley</td>
+            <td> 2020 - 2024 </td>
+            <td> 7.0 </td>
+        </tr>
+        <tr>
+            <td>PUC (M.Bipc)</td>
+            <td>  Rajiv Gandhi university of Knowledge Technologies,Rk valley </td>
+            <td> 2018-2020 </td>
+            <td> 7.0 </td>
+        </tr>
+        <tr>
+            <td>SSC</td>
+            <td> ZHPS Chitvel </td>
+            <td> 2013 - 2018 </td>
+            <td> 9.8 </td>
+        
+</table><br>
+
+<h2> projects</h2><hr>
+<ul>
+    <li> Robust Decentralized PIDcontroller</li>
+    <li> Eye blinking sensor prevents accidents</li>
+    <li> Solar electric bike</li>
+</ul><br>
+<h2> technica skills</h2><hr>
+<ul type="circle">
+    <li> Latx</li>
+    <li>html</li>
+    <li>Python</li>
+    <li>Iot</li>
+    
+</ul><br>
+<h2>Extra activities</h2><hr>
+<ol>
+    <li>NSS Volunter</li>
+    <li>NCC Cadiet</li>
+    <li>prticipate in National level Tech Fest in Nuzvid</li>
+    <li>prticipate in National level Tech Fest in Rk valley</li>
+    <li></li>
+</ol>
+    
+            
+    </body>
+</HTML>

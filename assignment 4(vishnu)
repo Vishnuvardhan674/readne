@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>learnin form</title>
+    </head>
+    <style>
+        table, th, td {
+          border: 1px solid black;
+          border-collapse: collapse;
+          padding: 10px;
+        }
+        </style
+    <body>
+        <fom>
+        <h1>Registration form</h1>
+        <table>
+            <caption>Application Form for Students</caption>
+            <t boarder="3px">
+                <tr>
+                <td>  Enter your firstname </td>
+                <td width="20px"><center>:</center></td> 
+                <td> <br><input type="text" name="firstName" id="firstName" placeholder="firstName"><br><br> </td>
+                </tr>
+
+                <tr>
+                <td>  Enter your lasstname </td>
+                <td width="20px"><center>:</center></td> 
+                <td><br><input type="text" name="firstName" id="lastname" placeholder="lastname"><br><br></td>
+                </tr>
+
+                <tr>
+                    <td> <label for="bdaymonth">Birthday (month and year)</label></td>
+                    <td width="20px"><center>:</center></td>
+                    <td><br><input type="month" id="bdaymonth" name="bdaymonth"><br><br></td>
+
+                <tr>
+                <td> I am pursuring </td>
+                <td width="20px"><center>:</center></td> 
+                <td> <br> <div>
+                    EEE <input type="radio" name="branch" value="EEE">
+                    ECE <input type="radio" name="branch" value="ECE">
+                    CIVIL <input type="radio" name="branch" value="CIVIL">
+                    other <input type="radio" name="branch" value="other">
+                <br><br>
+                </div></td>
+                </tr
+
+                <tr>
+                <td>  Skills </td>
+                <td width="20px"><center>:</center></td> 
+                <td> <br> <div>
+                    JAVA <input type="checkbox" name="skills" value="JAVA">
+                    Python <input type="checkbox" name="skills" value="PYTHON">
+                    HTML <input type="checkbox" name="skills" value="HTML">
+                <br><br></div></td>
+                </tr>
+                <tr>
+                <td>  Mobile number </td>
+                <td width="20px"><center>:</center></td> 
+                <td><br><input type="text" name="Mobile number" id="mobile number" placeholder="Enter your number"><br><br> </td>
+                </tr>
+                <tr>
+                <td>  Graducation year </td>
+                <td width="20px"><center>:</center></td> 
+                <td><br>
+                    <select name="graduation_Year">
+                        <option value="select year">select year</option>
+                        <option value="2019">2019</option>
+                        <option value="2020">2020</option>
+                        <option value="2021">2021</option>
+                        <option value="2022">2022</option>
+                        <option value="2023">2023</option>
+                        <option value="2024">2024</option>
+                        <option value="2025">2025</option>
+                    </select>
+                </div><br><br></td>
+                </tr>
+
+                <tr>
+                    <td> password</td>
+                    <td width="20px"><center>:</center></td> 
+                    <td><br><input type="password"placeholder="enter your password"required><br><br>
+                    </td>
+                    </tr>
+
+                    <tr>
+                    <td>
+                     Upload your Photo
+                     </td>
+                    <td width="20px"><center>:</center></td> 
+                    <td><br><input type="file"name="Photo">
+                   <br><br> </td>
+                    </tr>
+
+                <tr>
+                <td>  Any queries </td>
+                <td width="20px"><center>:</center></td> 
+                <td> <div>
+                    <textarea name="query" cols="20" rows="3" placeholder="Ask your douts"></textarea>
+                </div><br></td>
+                </tr><br><br>
+        </table>
+        <br><br>
+        <input type="submit" name="submit">
+    </body>
+    </form>
+</html>

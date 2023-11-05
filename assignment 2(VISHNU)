@@ -1,0 +1,29 @@
+<!DOCKTYPE HTML>
+<html>
+    <title> Design of web page</title>
+    <h1> Desgin webpage using html tags</h1>
+    <body>
+        <hr>
+        <hr>
+        <p> <strong> About my collage </strong></p> 
+        <Summary> AP IIIT RGUKT RK valley one of the best university in Andhara pradesh.The main moto of this university is provide international standard education to poor studnets from villages. YS rajashekara reddy is founder of this university.</Summary>
+        <h2> <Strong> education</Strong></h2>
+        <hr>
+        <hr>
+        <ol> 
+            <li>B.tech </li>
+            <li> Electrical engineering </li>
+            <li> IIIT IDUPULAPAYA </li>
+            <li> Andhara pradesh </li>
+        </ol>
+        <h3> Hobbies </h3>
+        <hr>
+        <hr>
+        <ol type="a">
+            <li> Playing Softball </li>
+            <li> Cycling</li>
+            <li> playng Cricket</li>
+        </ol>
+
+    </body>
+</html>
